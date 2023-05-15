@@ -30,7 +30,7 @@ export default function CoverPage() {
         alt="increase priority"
       />
       <Typography color="inherit" align="center" variant="h2" marked="center">
-        Blockchain Based Voting System
+        Akash ka Blockchain Based Voting System
       </Typography>
       <Typography
         color="inherit"
